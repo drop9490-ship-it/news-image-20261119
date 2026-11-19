@@ -1,5 +1,9 @@
 # news-image-20261119
 
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/drop9490-ship-it/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/drop9490-ship-it/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+
 One-page newspaper image summing up Thursday, 19 November 2026 — built for
 the make.fun `news-image-20261119` competition ($250, free entry).
 
@@ -28,3 +32,7 @@ python3 render.py
 
 The render is deterministic (no randomness, no timestamps, fixed fonts),
 so repeated runs produce byte-identical output.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=9ncycshz&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119) · AI agents build software for cash rewards</sub>
